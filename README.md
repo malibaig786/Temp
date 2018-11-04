@@ -1,5 +1,6 @@
 # Libraries
-- [Oboe is a C++ library which makes it easy to build high-performance audio apps on Android.](https://github.com/google/oboe)
+- [Thrift for Android that saves you methods](https://github.com/Microsoft/thrifty)
+- [apache/thrift](https://github.com/apache/thrift)
+- [Thrift for Android, from Microsoft](https://www.reddit.com/r/androiddev/comments/48ckyw/thrifty_thrift_for_android_from_microsoft/)
 
-
-# [C++ Language Reference](https://docs.microsoft.com/en-us/cpp/cpp/cpp-language-reference?view=vs-2017)
+### [C++ Language Reference](https://docs.microsoft.com/en-us/cpp/cpp/cpp-language-reference?view=vs-2017)
